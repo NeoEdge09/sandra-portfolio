@@ -1,16 +1,12 @@
 {
-    "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
-        {
-            "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
-        },
-        {
-            "network" : "email",
-            "href": "mailto:test@test.com"
-        }
-    ]
+  "social": [
+    {
+      "network": "linkedin",
+      "href": "https://www.linkedin.com/in/sandranuramalia"
+    },
+    {
+      "network": "email",
+      "href": "mailto:sandraanraml@gmail.com"
+    }
+  ]
 }

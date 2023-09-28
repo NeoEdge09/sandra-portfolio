@@ -58,6 +58,7 @@ const NavBar = () => {
       variant="dark"
       className="navbar-custom"
       expanded={expanded}
+
     >
       <Container>
         {data?.logo && (

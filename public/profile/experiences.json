@@ -1,33 +1,72 @@
 {
-    "experiences": [
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
-            ],
-            "dateText": "06/20XX – Present"
-        },
-        {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
-            "workDescription": [
-                "Worked on abc."
-            ],
-            "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Kesekretariatan dan Publikasi",
+      "subtitle": "APWIKI Indonesia",
+      "workType": "Internship",
+      "workDescription": [
+        "Membantu melaksanakan pengelolaan surat dan berkas pendukung dalam kebutuhan APWIKI Indonesia.."
+      ],
+      "dateText": "Jan 2023 – Apr 2023"
+    },
+    {
+      "title": "Staff Divisi Penyiaran Periode 2021/2022",
+      "subtitle": "Radio Mercu Buana",
+      "workDescription": [
+        "Membantu mengerjakan tugas dan menangani persoalan yang berkaitan dengan siaran di Radio Mercu Buana."
+      ],
+      "dateText": "Sep 2021 – Aug 2022 "
+    },
+    {
+      "title": "Kepala Bidang Divisi Penyiaran Periode 2022/2023",
+      "subtitle": "Radio Mercu Buana",
+      "workDescription": [
+        "Mengoordinasikan dan mengatur seluruh aktivitas siaran di Radio Mercu Buana.",
+        "Mengoordinasikan tugas dan tanggung jawab staff antar program.",
+        "Memantau dan mengulas setiap program agar memastikan sesuai dengan yang diberikan, program mematuhi pedoman penyiaran, serta memperhatikan kualitas dari setiap program (meliputi penyiar dan produser)."
+      ],
+      "dateText": "Sep 2022 – Jul 2023"
+    },
+    {
+      "title": "Staff Liaison Officer (LO)",
+      "subtitle": "Radio Mercu Buana Festival (RMB FEST 2021)",
+      "workDescription": [
+        "Bertugas menjadi bagian dari hubungan masyarakat sebagai penghubung antara peserta dan panitia untuk saling berkomunikasi dan berkoordinasi, serta membangun hubungan baik."
+      ],
+      "dateText": "Apr 2021 – Jun 2021 "
+    },
+    {
+      "title": "Staff Divisi Acara",
+      "subtitle": "Radio Mercu Buana Festival (RMB FEST 2022)",
+      "workDescription": [
+        "Membuat dan mengatur kegiatan yang berhubungan dengan acara seperti konsep acara, susunan acara (rundown) secara detail dan spesifik (memuat waktu, acara, pengisi acara, perlengkapan dan tempat)."
+      ],
+      "dateText": "Feb 2022 – Jul 2022 "
+    },
+    {
+      "title": "Koordinator Divisi Acara",
+      "subtitle": "Webinar (EO Maple Production)",
+      "workDescription": [
+        "Mengoordinasikan dan memonitor susunan jadwal acara yang ditujukan dalam pengelolaan acara.",
+        "Membagikan tugas, susunan kegiatan dan pekerjaan kepada masing-masing anggota divisi acara."
+      ],
+      "dateText": "Sep 2022 – Dec 2022 "
+    },
+    {
+      "title": "Staff Divisi Acara",
+      "subtitle": "Radio Mercu Buana Festival (RMB FEST 2023)",
+      "workDescription": [
+        "Membuat dan mengatur kegiatan yang berhubungan dengan acara seperti konsep acara, susunan acara (rundown) secara detail dan spesifik (memuat waktu, acara, pengisi acara, perlengkapan dan tempat)."
+      ],
+      "dateText": "Dec 2022 – Jun 2023 "
+    },
+    {
+      "title": "Manager",
+      "subtitle": "PR CERIA 2022",
+      "workDescription": [
+        "Menjadi bagian dari panitia dalam menyukseskan acara yang diselenggarakan oleh HIMA Public Relations Universitas Mercu Buana."
+      ],
+      "dateText": "May 2022 "
+    }
+  ]
 }

@@ -1,63 +1,92 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
-            "items" : [
-     
-                {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
-                },
-                {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
-                },
-                {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
-                }
-        ]},
+  "skills": [
+    {
+      "title": "Bahasa",
+      "items": [
         {
-            "title": "Frameworks & Technologies",
-            "items" : [
-                {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
-                },
-                {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
-                },
-                {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
-                }
-            ]
+          "icon": "images/skills/indonesia.png",
+          "title": "Indonesia"
         },
         {
-            "title" : "Tools & Platforms",
-            "items": [
-                {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
-                },
-                {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
-                },
-                {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
-                }
-            ]
+          "icon": "images/skills/united-kingdom.png",
+          "title": "English"
+        }
+      ]
+    },
+    {
+      "title": "Soft Skills",
+      "items": [
+        {
+          "icon": "images/skills/conversation.png",
+          "title": "Komunikasi"
+        },
+        {
+          "icon": "images/skills/work.png",
+          "title": "Berkoordinasi"
+        },
+        {
+          "icon": "images/skills/agreement.png",
+          "title": "Partnership"
+        },
+        {
+          "icon": "images/skills/creative.png",
+          "title": "Analisa & Pemahaman"
+        },
+        {
+          "icon": "images/skills/idea.png",
+          "title": "Kreativitas"
+        },
+        {
+          "icon": "images/skills/presenter.png",
+          "title": "Public Speaking"
+        },
+        {
+          "icon": "images/skills/teamwork.png",
+          "title": "Kerja Tim"
+        },
+        {
+          "icon": "images/skills/seo.png",
+          "title": "Perhatian Detail"
+        },
+        {
+          "icon": "images/skills/initiative.png",
+          "title": "Inisiatif"
+        }
+      ]
+    },
+
+    {
+      "title": "Hard Skills (Ms Office, Editing, Writer)",
+      "items": [
+        {
+          "icon": "images/skills/Microsoft-Word-Logo.png",
+          "title": "MS Word"
+        },
+        {
+          "icon": "images/skills/Microsoft-PowerPoint-Logo.png",
+          "title": "MS Power Point"
+        },
+        {
+          "icon": "images/skills/Microsoft-Excel-Logo.png",
+          "title": "MS Exel"
+        },
+        {
+          "icon": "images/skills/logo-canva-png.png",
+          "title": "Canva"
+        },
+        {
+          "icon": "images/skills/cap-cut-logo-png.png",
+          "title": "Capcut"
+        },
+        {
+          "icon": "images/skills/filmora.png",
+          "title": "Filmora"
+        },
+        {
+          "icon": "images/skills/article.png",
+          "title": "Menulis"
+        }
+      ]
     }
-]}
+  ]
+}

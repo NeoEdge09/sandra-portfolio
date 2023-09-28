@@ -43,7 +43,7 @@ function Education(props) {
     <>
       <Header title={header} />
       {data ? (
-        <Fade>
+        <Fade right>
           <div style={{ width }} className="section-content-container">
             <Container>
               <Chrono
